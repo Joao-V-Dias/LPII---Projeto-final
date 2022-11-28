@@ -86,6 +86,11 @@
   /**/
   /* /intro*/ 
   /**/
+
+#automovel_historia{
+    width: 100vw;
+    height: auto;
+}
   
   #intro{
     margin: 10px 40px;
